@@ -1,4 +1,5 @@
 Hi there, I'm Ethem! 👋
+
 🚀 Self-Taught Developer | 🌐 Full Stack Web Enthusiast | 💡 Lifelong Learner
 Welcome to my GitHub! I'm a passionate self-taught developer with 3 years of experience in building web and mobile applications. I specialize in Python, PHP, JavaScript, and modern front-end frameworks like React and Next.js. Here, you'll find a collection of my projects, contributions, and experiments as I continue to explore and grow in the world of development.
 
